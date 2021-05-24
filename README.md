@@ -11,4 +11,14 @@ Execution:
             run the training.m file on the command window if you want to train the network first.
             
             else , use the trained network - gen_net, by just running facedetecttest.m file directly.
+            
           
+Model 2: Viola Jones Algorithm based
+
+I have designed a simple model which detects presence of mask by using Viola Jones algo to detect presence/absence of certain facial features and tested on the same dataset. 
+
+Execution:
+
+            run the facedettest.m file on the command window directly.
+          
+Technical Details of Project mentioned in the Report.
