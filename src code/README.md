@@ -2,15 +2,15 @@ This directory contains complete code files. All of them including the dataset f
 
 Files for Model 1 - deep learning using CNN:
 
-  Facedetecttest.m
+      Facedetecttest.m
 
-  training.m
+      training.m
   
-  gen_net.mat
+      gen_net.mat
   
 Files for Model 2 - Viola Jones Algorithm Based
 
-  Facedettest.m
+      Facedettest.m
 
 Both the models will access the same dataset.
 
